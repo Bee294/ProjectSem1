@@ -1,0 +1,12 @@
+
+.containers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+    border:  none;
+    border-radius: 15px;
+    padding: 20px;
+    background: #D7C4F2;
+}
+
